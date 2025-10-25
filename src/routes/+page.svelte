@@ -24,7 +24,10 @@
 		'/audio/thinking/thinking2.ogg',
 		'/audio/thinking/thinking3.ogg',
 		'/audio/thinking/thinking4.ogg',
-		'/audio/thinking/thinking5.ogg'
+		'/audio/thinking/thinking5.ogg',
+		'/audio/thinking/thinking6.ogg',
+		'/audio/thinking/thinking7.ogg',
+		'/audio/thinking/thinking8.ogg'
 	];
 
 	const distros: Distro[] = [
@@ -38,7 +41,7 @@
 			name: 'Arch Linux',
 			logo: '/imgs/distro-logo/arch.png',
 			website: 'https://archlinux.org',
-			audio: '/audio/distros/arch-linux.ogg'
+			audio: '/audio/distros/arch.ogg'
 		},
 		{
 			name: 'Fedora',
@@ -57,6 +60,54 @@
 			logo: '/imgs/distro-logo/popos.png',
 			website: 'https://pop.system76.com',
 			audio: '/audio/distros/popos.ogg'
+		},
+		{
+			name: 'CachyOS',
+			logo: '/imgs/distro-logo/cachyos.png',
+			website: 'https://cachyos.org',
+			audio: '/audio/distros/cachyos.ogg'
+		},
+		{
+			name: 'Red Hat',
+			logo: '/imgs/distro-logo/redhat.png',
+			website: 'https://www.redhat.com',
+			audio: '/audio/distros/redhat.ogg'
+		},
+		{
+			name: 'Open Suse',
+			logo: '/imgs/distro-logo/opensuse.png',
+			website: 'https://www.opensuse.org',
+			audio: '/audio/distros/opensuse.ogg'
+		},
+		{
+			name: 'Manjaro',
+			logo: '/imgs/distro-logo/manjaro.png',
+			website: 'https://manjaro.org',
+			audio: '/audio/distros/manjaro.ogg'
+		},
+		{
+			name: 'NixOS',
+			logo: '/imgs/distro-logo/nixos.png',
+			website: 'https://nixos.org',
+			audio: '/audio/distros/nixos.ogg'
+		},
+		{
+			name: 'Linux Mint',
+			logo: '/imgs/distro-logo/mint.png',
+			website: 'https://linuxmint.com',
+			audio: '/audio/distros/mint.ogg'
+		},
+		{
+			name: 'Zorin OS',
+			logo: '/imgs/distro-logo/zorinos.png',
+			website: 'https://zorinos.com',
+			audio: '/audio/distros/zorinos.ogg'
+		},
+		{
+			name: 'Rocky Linux',
+			logo: '/imgs/distro-logo/rocky.png',
+			website: 'https://rockylinux.org',
+			audio: '/audio/distros/rocky.ogg'
 		}
 	];
 
